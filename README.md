@@ -47,7 +47,7 @@ Além das habilidades técnicas, valorizo muito o desenvolvimento pessoal e o tr
 <div >
   <a href="https://beacons.ai/Dev-Gust0007" target="_blank">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-Gust0007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev-Gust0007&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev-Gust0007&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
