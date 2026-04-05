@@ -2,10 +2,10 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um estudante apaixonado por tecnologia, programação e resolução de problemas. Atualmente, estou construindo minha base acadêmica e técnica para me tornar um Desenvolvedor de Software de excelência, com forte interesse em desenvolvimento web e robótica.
+Sou um estudante com afinco na área da tecnologia, programação e resolução de problemas. Atualmente, estou construindo minha base acadêmica e técnica para me tornar um Desenvolvedor de Software de excelência, com forte interesse em desenvolvimento web, tanto back-end como front-end.
 
 - 🎓 Cursando o **1º semestre de Engenharia de Software**.
-- 💼 Atualmente atuando como **Estagiário na área de TI** (estágio obrigatório para a conclusão final do curso Técnico em Informática).
+- 💼 Atualmente atuando como **Estagiário na área de TI** (estágio de Técnico em Informática).
 - 🏫 Recém-formado no **Ensino Médio** (2025).
 - 🏆 Experiência em campeonatos de robótica(OBR - Olimpíada Brasileira de Robótica) e competições escolares de matemática.
 - 🎯 **Objetivo:** Aplicar na prática os conhecimentos adquiridos na faculdade e no curso técnico, evoluindo minhas habilidades em programação e contribuindo com soluções eficientes no meu ambiente de trabalho.
