@@ -63,7 +63,7 @@ Além das habilidades técnicas, valorizo muito o desenvolvimento pessoal e o tr
 </div>
 
 <p align="center">
-  <i>"Sempre em busca do próximo desafio para evoluir minhas habilidades na Engenharia de Software!"</i>
+  <i>"Sempre em busca do próximo desafio para evoluir minhas habilidades!"</i>
 </p>
 
 ![Snake animation](https://github.com/Dev-Gust0007/Dev-Gust0007/blob/output/github-contribution-grid-snake.svg)
